@@ -1,5 +1,5 @@
 #include<stdio.h>
 int main(){
-	printf("hello first.c\n"); //corrected in develop branch
+	printf("hello first.c\n"); //corrected 
 	return 0;
 }
