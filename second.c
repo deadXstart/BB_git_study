@@ -1,6 +1,6 @@
 #include<stdio.h>
 int main(){
-        printf("hello second.c"); // corrected
+        printf("hello last.c"); // error
 	printf("testing");
         return 0;
 }
